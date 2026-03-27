@@ -12,10 +12,10 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-12'>
         <img className='w-full md:max-w-[360px]' src={assets.about_image} alt="" />
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-sm text-gray-600'>
-          <p>Welcome to <strong>BookMyDoc</strong>, your trusted partner in managing your healthcare needs conveniently and efficiently.We understand the challenges individuals face when it comes to scheduling doctor appointments and keeping track of their medical needs.</p>
-          <p><strong>BookMyDoc</strong> is committed to revolutionizing the digital healthcare experience. We continuously enhance our platform to provide a seamless and user-friendly interface that helps you connect with trusted doctors quickly and securely.</p>
+          <p>Welcome to <strong>DocLab</strong>, your trusted partner in managing your healthcare needs conveniently and efficiently.We understand the challenges individuals face when it comes to scheduling doctor appointments and keeping track of their medical needs.</p>
+          <p><strong>DocLab</strong> is committed to revolutionizing the digital healthcare experience. We continuously enhance our platform to provide a seamless and user-friendly interface that helps you connect with trusted doctors quickly and securely.</p>
           <b className='text-gray-800'>Our Vision</b>
-          <p>Our vision at <strong>BookMyDoc</strong> is to make quality healthcare accessible to everyone. We aim to bridge the gap between patients and healthcare providers by making appointments faster, easier, and more reliable — all in one place.</p>
+          <p>Our vision at <strong>DocLab</strong> is to make quality healthcare accessible to everyone. We aim to bridge the gap between patients and healthcare providers by making appointments faster, easier, and more reliable — all in one place.</p>
         </div>
       </div>
 

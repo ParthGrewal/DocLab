@@ -9,7 +9,7 @@ const Footer = () => {
       <div>
   <img className='mb-5 w-40' src={assets.logo} alt="" />
   <p className='w-full md:w-2/3 text-gray-600 leading-6'>
-    BookMyDoc helps you book appointments with trusted doctors quickly and easily. Access quality healthcare, manage your visits, and stay on top of your health—all in one place.
+    DocLab helps you book appointments with trusted doctors quickly and easily. Access quality healthcare, manage your visits, and stay on top of your health—all in one place.
   </p>
 </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 2026 @ BookMyDoc.com - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright 2026 @ <DocLab>DocLab</DocLab>.com - All Right Reserved.</p>
       </div>
 
     </div>
